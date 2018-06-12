@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.3, created on 2018-01-13 17:50:52
+<?php /* Smarty version Smarty-3.1.3, created on 2018-06-12 23:34:33
          compiled from "templates/default/index\module\news.php" */ ?>
 <?php /*%%SmartyHeaderCode:139245a59d67cc1dc69-61897747%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '070312f30a0e9b4cd36613961e26b5744c023831' => 
     array (
       0 => 'templates/default/index\\module\\news.php',
-      1 => 1447081977,
+      1 => 1528817640,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.3',
+  'unifunc' => 'content_5a59d67cc95ca',
   'variables' => 
   array (
     'notice' => 0,
@@ -22,8 +24,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'news' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.3',
-  'unifunc' => 'content_5a59d67cc95ca',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5a59d67cc95ca')) {function content_5a59d67cc95ca($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include 'E:\phpStudy\WWW\upload\smarty\plugins\modifier.date_format.php';
 ?>

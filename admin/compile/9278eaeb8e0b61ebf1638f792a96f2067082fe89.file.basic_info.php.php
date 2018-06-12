@@ -1,4 +1,5 @@
-
+<?php /* Smarty version Smarty-3.1.3, created on 2018-06-12 23:15:55
+         compiled from "templates/default/admin\module\basic\basic_info.php" */ ?>
 <?php /*%%SmartyHeaderCode:255215a59d814e15bf6-05383194%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
@@ -6,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '9278eaeb8e0b61ebf1638f792a96f2067082fe89' => 
     array (
       0 => 'templates/default/admin\\module\\basic\\basic_info.php',
-      1 => 1447639534,
+      1 => 1528816002,
       2 => 'file',
     ),
   ),
@@ -14,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.3',
+  'unifunc' => 'content_5a59d814eb718',
   'variables' => 
   array (
     'show_sinsiu' => 0,
@@ -28,8 +31,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'server_software' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.3',
-  'unifunc' => 'content_5a59d814eb718',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5a59d814eb718')) {function content_5a59d814eb718($_smarty_tpl) {?>
 <div class="block">
@@ -41,7 +42,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 				<td>当前版本：</td>
 				<td><?php echo $_smarty_tpl->tpl_vars['version']->value;?>
 </td>
-				<td>最新版本：</td>
+				<td>最1版本：</td>
 				<td><div id="ver"><?php echo $_smarty_tpl->tpl_vars['version']->value;?>
 </div></td>
 			</tr>
@@ -82,7 +83,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	</div>
 </div>
 <div class="space"></div>
-<div class="block">
+<!-- <div class="block">
 	<div class="head"><span>使用帮助</span></div>
 	<div class="main">
 		<table class="table">
@@ -100,7 +101,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			</tr>
 		</table>
 	</div>
-</div>
+</div> -->
 
 <script language="javascript">
 	function get_version()

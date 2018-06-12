@@ -1,35 +1,5 @@
 {*<?php exit();?>*}
-<div class="block">
-	<div class="head"><span>在线客服</span></div>
-	<div class="main">
-		<form id="form_edit_online" method="post" action="{url channel=$global.channel}">
-			<input name="cmd" type="hidden" value="edit_online" />
-			<table class="table">
-				<tr>
-					<td width="100px">获取代码：</td>
-					<td>
-						请登录&nbsp;<a href="http://shang.qq.com/" target="_blank">http://shang.qq.com/</a>&nbsp;获取QQ在线客服代码<br />
-					</td>
-				</tr>
-				<tr>
-					<td>客服代码：</td>
-					<td>
-						<div class="editor">
-							{include file='module/editor.php'}
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td colspan="2">
-						<div class="bt_row">
-							<input class="button" type="submit" value="提交" />
-						</div>
-					</td>
-				</tr>
-			</table>
-		</form>
-	</div>
-</div>
+
 <div class="space"></div>
 <div class="block">
 	<div class="head"><span>使用说明</span></div>

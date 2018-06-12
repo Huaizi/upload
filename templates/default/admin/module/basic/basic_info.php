@@ -7,7 +7,7 @@
 			<tr>
 				<td>当前版本：</td>
 				<td>{$version}</td>
-				<td>最新版本：</td>
+				<td>最1版本：</td>
 				<td><div id="ver">{$version}</div></td>
 			</tr>
 			{/if}
@@ -39,7 +39,7 @@
 	</div>
 </div>
 <div class="space"></div>
-<div class="block">
+<!-- <div class="block">
 	<div class="head"><span>使用帮助</span></div>
 	<div class="main">
 		<table class="table">
@@ -52,7 +52,7 @@
 			</tr>
 		</table>
 	</div>
-</div>
+</div> -->
 {literal}
 <script language="javascript">
 	function get_version()

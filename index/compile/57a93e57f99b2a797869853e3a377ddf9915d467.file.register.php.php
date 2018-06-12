@@ -26,7 +26,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5a59d69de4e7d')) {function content_5a59d69de4e7d($_smarty_tpl) {?>
 <div class="block" id="reg_login">
-	<div class="head"><span>注册新用户</span></div>
+	<div class="head"><span>注册1用户</span></div>
 	<div class="main">
 		<form name="form_register" method="post" action="<?php echo url(array('entrance'=>$_smarty_tpl->tpl_vars['global']->value['entrance'],'channel'=>'deal'),$_smarty_tpl);?>
 ">

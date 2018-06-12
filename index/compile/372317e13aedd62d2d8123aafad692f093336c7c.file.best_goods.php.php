@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.3, created on 2018-01-14 09:20:55
+<?php /* Smarty version Smarty-3.1.3, created on 2018-06-12 23:34:33
          compiled from "templates/default/index\module\best_goods.php" */ ?>
 <?php /*%%SmartyHeaderCode:34585a59d67ccf2574-41780353%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '372317e13aedd62d2d8123aafad692f093336c7c' => 
     array (
       0 => 'templates/default/index\\module\\best_goods.php',
-      1 => 1515892841,
+      1 => 1528817648,
       2 => 'file',
     ),
   ),

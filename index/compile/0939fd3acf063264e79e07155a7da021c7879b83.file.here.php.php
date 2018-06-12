@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.3, created on 2018-01-13 17:51:00
+<?php /* Smarty version Smarty-3.1.3, created on 2018-06-12 23:34:42
          compiled from "templates/default/index\module\here.php" */ ?>
 <?php /*%%SmartyHeaderCode:74825a59d68435f8b8-67470200%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '0939fd3acf063264e79e07155a7da021c7879b83' => 
     array (
       0 => 'templates/default/index\\module\\here.php',
-      1 => 1430901747,
+      1 => 1528817649,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.3',
+  'unifunc' => 'content_5a59d6843f8da',
   'variables' => 
   array (
     'page_title' => 0,
@@ -23,8 +25,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'global' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.3',
-  'unifunc' => 'content_5a59d6843f8da',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5a59d6843f8da')) {function content_5a59d6843f8da($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_truncate')) include 'E:\phpStudy\WWW\upload\smarty\plugins\modifier.truncate.php';
 ?>

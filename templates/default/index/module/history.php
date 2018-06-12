@@ -1,6 +1,6 @@
 {*<?php exit();?>*}
 <div class="history">
-	<div class="head">———— 看了又看 ————</div>
+	<div class="head">———— 猜你喜欢 ————</div>
 	<div class="main">
 		{foreach from=$history name=history item=item}
 		{if $smarty.foreach.history.index < 2}

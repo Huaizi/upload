@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.3, created on 2018-05-08 17:30:04
+<?php /* Smarty version Smarty-3.1.3, created on 2018-06-12 23:34:32
          compiled from "templates/default/index\module\header.php" */ ?>
 <?php /*%%SmartyHeaderCode:262965a59d67c986aa9-65003323%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'ff4a3500fec1ebbe290b9826a6ef0a53de5f58da' => 
     array (
       0 => 'templates/default/index\\module\\header.php',
-      1 => 1525771596,
+      1 => 1528817649,
       2 => 'file',
     ),
   ),
@@ -135,14 +135,14 @@ $_smarty_tpl->tpl_vars['item']->_loop = true;
 		<div class="main">
 			<div class="cat_head">全部商品分类</div>
 			<a href="http://localhost/upload/?/index/">首&nbsp;&nbsp;&nbsp;页</a>
-						<a href="http://localhost/upload/?/goods/cat-1/">男&nbsp;&nbsp;&nbsp;装</a>
-						<a href="http://localhost/upload/?/goods/cat-2/">女&nbsp;&nbsp;&nbsp;装</a>
-						<a href="http://localhost/upload/?/goods/cat-3/">鞋&nbsp;&nbsp;&nbsp;包</a>
-						<a href="http://localhost/upload/?/goods/cat-4/">居&nbsp;&nbsp;&nbsp;家</a>
-						<a href="http://localhost/upload/?/goods/cat-5/">食&nbsp;&nbsp;&nbsp;品</a>
-						<a href="http://localhost/upload/?/goods/cat-6/">母&nbsp;&nbsp;&nbsp;婴</a>
+						<a href="http://localhost/upload/?/goods/cat-1/">影&nbsp;&nbsp;&nbsp;像</a>
+						<a href="http://localhost/upload/?/goods/cat-2/">电&nbsp;&nbsp;&nbsp;器</a>
+						<a href="http://localhost/upload/?/goods/cat-3/">手&nbsp;&nbsp;&nbsp;机</a>
+						<a href="http://localhost/upload/?/goods/cat-4/">办&nbsp;&nbsp;&nbsp;工</a>
+						<a href="http://localhost/upload/?/goods/cat-5/">家&nbsp;&nbsp;&nbsp;具</a>
+						<a href="http://localhost/upload/?/goods/cat-6/">衣&nbsp;&nbsp;&nbsp;装</a>
 						<a href="http://localhost/upload/?/goods/cat-7/">化妆品</a>
-						<a href="http://localhost/upload/?/goods/cat-8/">数&nbsp;&nbsp;&nbsp;码</a>
+						<a href="http://localhost/upload/?/goods/cat-8/">奢侈品</a>
 						<a href="http://localhost/upload/?/goods/promotion-1/">特&nbsp;&nbsp;&nbsp;卖</a>
 			<div class="clear"></div>
 		</div>

@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.3, created on 2018-01-13 17:50:52
+<?php /* Smarty version Smarty-3.1.3, created on 2018-06-12 23:34:33
          compiled from "templates/default/index\module\goods_tree.php" */ ?>
 <?php /*%%SmartyHeaderCode:318895a59d67cb729b4-06658798%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '6083629d1d798101649a847ac92025a6a963bd20' => 
     array (
       0 => 'templates/default/index\\module\\goods_tree.php',
-      1 => 1431070385,
+      1 => 1528817649,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.3',
+  'unifunc' => 'content_5a59d67cbbd8c',
   'variables' => 
   array (
     'global' => 0,
@@ -24,8 +26,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'item_2' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.3',
-  'unifunc' => 'content_5a59d67cbbd8c',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5a59d67cbbd8c')) {function content_5a59d67cbbd8c($_smarty_tpl) {?>
 <div class="goods_tree<?php if ($_smarty_tpl->tpl_vars['global']->value['channel']!='index'){?> goods_tree_2<?php }?>">

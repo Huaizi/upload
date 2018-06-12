@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.3, created on 2018-01-13 22:47:40
+<?php /* Smarty version Smarty-3.1.3, created on 2018-06-12 23:34:42
          compiled from "templates/default/index\module\history.php" */ ?>
 <?php /*%%SmartyHeaderCode:319985a5a1c0c741ba4-60783466%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'd46332f794aa19ae2dd66b93e6c2f1673d482d73' => 
     array (
       0 => 'templates/default/index\\module\\history.php',
-      1 => 1447082826,
+      1 => 1528817639,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.3',
+  'unifunc' => 'content_5a5a1c0ca4d49',
   'variables' => 
   array (
     'history' => 0,
@@ -22,12 +24,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'S_FRONT_URL' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.3',
-  'unifunc' => 'content_5a5a1c0ca4d49',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5a5a1c0ca4d49')) {function content_5a5a1c0ca4d49($_smarty_tpl) {?>
 <div class="history">
-	<div class="head">———— 看了又看 ————</div>
+	<div class="head">———— 猜你喜欢 ————</div>
 	<div class="main">
 		<?php  $_smarty_tpl->tpl_vars['item'] = new Smarty_Variable; $_smarty_tpl->tpl_vars['item']->_loop = false;
  $_from = $_smarty_tpl->tpl_vars['history']->value; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array');}

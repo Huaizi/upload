@@ -85,7 +85,7 @@ $_smarty_tpl->tpl_vars['item']->_loop = true;
 元 (<?php echo $_smarty_tpl->tpl_vars['discount']->value;?>
 %)</td>
 				<td class="bt_row"><a onclick="cart_clear()">清空购物车</a></td>
-				<td class="bt_row"><a onclick="cart_update()">更新购物车</a></td>
+				<td class="bt_row"><a onclick="cart_update()">更1购物车</a></td>
 			</tr>
 		</table>
 		<table class="big_bt">

@@ -176,7 +176,7 @@ _3">
 				</tr>
 				<tr>
 					<td class="bt_row" colspan="4">
-						<input class="button" type="button" onclick="submit_consignee(0)" value="新增收货地址" />&nbsp;&nbsp;
+						<input class="button" type="button" onclick="submit_consignee(0)" value="1增收货地址" />&nbsp;&nbsp;
 					</td>
 				</tr>
 			</table>

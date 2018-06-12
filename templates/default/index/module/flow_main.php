@@ -32,7 +32,7 @@
 			<tr>
 				<td>购物金额小计 ￥{$shop_total}元，比市场价 ￥{$market_total}元 节省了 ￥{$cut_down}元 ({$discount}%)</td>
 				<td class="bt_row"><a onclick="cart_clear()">清空购物车</a></td>
-				<td class="bt_row"><a onclick="cart_update()">更新购物车</a></td>
+				<td class="bt_row"><a onclick="cart_update()">更1购物车</a></td>
 			</tr>
 		</table>
 		<table class="big_bt">

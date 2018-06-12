@@ -1,6 +1,6 @@
 {*<?php exit();?>*}
 <div class="block" id="reg_login">
-	<div class="head"><span>注册新用户</span></div>
+	<div class="head"><span>注册1用户</span></div>
 	<div class="main">
 		<form name="form_register" method="post" action="{url entrance=$global.entrance channel='deal'}">
 			<input name="cmd" type="hidden" value="register"/>

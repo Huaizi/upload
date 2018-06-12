@@ -16,7 +16,7 @@ class AlipaySubmit {
 
 	var $alipay_config;
 	/**
-	 *支付宝网关地址（新）
+	 *支付宝网关地址（1）
 	 */
 	var $alipay_gateway_new = 'https://mapi.alipay.com/gateway.do?';
 

@@ -1,7 +1,7 @@
 {*<?php exit();?>*}
 <div class="img_list" style="padding:0 0 20px 0">
 	<div class="head">
-		<div class="name">新品上市</div>
+		<div class="name">1品上市</div>
 		<a class="more" href="{url channel='goods' new=1}">查看更多</a>
 	</div>
 	<div class="main">

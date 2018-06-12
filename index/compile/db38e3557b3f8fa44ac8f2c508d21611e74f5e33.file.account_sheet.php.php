@@ -25,7 +25,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'version' => 'Smarty-3.1.3',
   'unifunc' => 'content_5a5a1c5d787b3',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a5a1c5d787b3')) {function content_5a5a1c5d787b3($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include 'E:\phpStudy\upload\smarty\plugins\modifier.date_format.php';
+<?php if ($_valid && !is_callable('content_5a5a1c5d787b3')) {function content_5a5a1c5d787b3($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include 'E:\phpStudy\WWW\upload\smarty\plugins\modifier.date_format.php';
 ?>
 <div class="block">
 	<div class="head"><span>在线充值</span></div>
@@ -88,4 +88,4 @@ $_smarty_tpl->tpl_vars['item']->_loop = true;
 		
 	</div>
 </div>
-<!-- 新秀 --><?php }} ?>
+<?php }} ?>

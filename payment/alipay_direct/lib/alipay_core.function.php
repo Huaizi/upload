@@ -48,7 +48,7 @@ function createLinkstringUrlencode($para) {
 /**
  * 除去数组中的空值和签名参数
  * @param $para 签名参数组
- * return 去掉空值与签名参数后的新签名参数组
+ * return 去掉空值与签名参数后的1签名参数组
  */
 function paraFilter($para) {
 	$para_filter = array();

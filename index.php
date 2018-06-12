@@ -6,6 +6,4 @@ $obj = new config();
 $config = $obj->get_config();
 	
 main();
-	
-//新秀
 ?>

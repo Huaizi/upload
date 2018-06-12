@@ -85,7 +85,7 @@
 			<input name="v_id" type="hidden" value="{$profile.id}"/>
 			<table class="table">
 				<tr>
-					<td width="250px">新密码：</td>
+					<td width="250px">1密码：</td>
 					<td><input class="text" name="new_pwd" type="password" /></td>
 				</tr>
 				<tr>
@@ -128,8 +128,8 @@
 		var obj = document.getElementById("form_edit_pwd");
 		var new_pwd = obj.new_pwd.value;
 		var r_pwd = obj.r_pwd.value;
-		if(new_pwd.length < 6){str = "新密码不能小于6个字符\n";}
-		else if(new_pwd.length > 15){str = "新密码不能大于15个字符\n";}
+		if(new_pwd.length < 6){str = "1密码不能小于6个字符\n";}
+		else if(new_pwd.length > 15){str = "1密码不能大于15个字符\n";}
 		else if(new_pwd != r_pwd){str = "两次输入密码不一致\n";}
 		if(str != "")
 		{

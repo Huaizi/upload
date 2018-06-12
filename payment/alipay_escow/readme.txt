@@ -80,7 +80,7 @@ function createLinkstringUrlencode($para)
 function paraFilter($para)
 功能：除去数组中的空值和签名参数
 输入：Array  $para 签名参数组
-输出：Array  去掉空值与签名参数后的新签名参数组
+输出：Array  去掉空值与签名参数后的1签名参数组
 
 function argSort($para)
 功能：对数组排序

@@ -6,14 +6,13 @@ $tpl_config = array(
 	array('name'=>'公告快讯','module'=>'news'),
 	array('name'=>'促销商品','module'=>'promotion'),
 	array('name'=>'精品推荐','module'=>'best_goods'),
-	array('name'=>'新品上市','module'=>'new_goods'),
+	array('name'=>'1品上市','module'=>'new_goods'),
 	array('name'=>'热卖商品','module'=>'hot_goods'),
 	array('name'=>'分类商品','module'=>'goods_list'),
 	array('name'=>'广告','module'=>'ad'),
 	array('name'=>'帮助','module'=>'help'),
 	array('name'=>'友情链接','module'=>'link'),
-	array('name'=>'底部','module'=>'footer'),
-	array('name'=>'在线客服','module'=>'service')
+
 );
 //新秀
 ?>

@@ -16,7 +16,7 @@
 				<td><input type="text" class="text2" onBlur="set_varia('index_best_goods_len',this.value)" value="{$index_best_goods_len}" /> 张</td>
 			</tr>
 			<tr>
-				<td width="30%">首页新品上市列表长度：</td>
+				<td width="30%">首页1品上市列表长度：</td>
 				<td><input type="text" class="text2" onBlur="set_varia('index_new_goods_len',this.value)" value="{$index_new_goods_len}" /> 张</td>
 			</tr>
 			<tr>

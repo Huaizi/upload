@@ -209,7 +209,7 @@ $_smarty_tpl->tpl_vars['smarty']->value['section']['loop']['last']       = ($_sm
 					<td class="r"><input class="text" name="old_pwd" type="password" /></td>
 				</tr>
 				<tr>
-					<td class="l">新密码：</td>
+					<td class="l">1密码：</td>
 					<td class="r"><input class="text" name="new_pwd" type="password" /></td>
 				</tr>
 				<tr>
@@ -248,8 +248,8 @@ function submit_edit_pwd()
 	var r_pwd = document.form_edit_pwd.r_pwd.value;
 	if(old_pwd.length < 6){str += "-旧密码不能小于6个字符\n";}
 	else if(old_pwd.length > 15){str += "-旧密码不能大于15个字符\n";}
-	if(new_pwd.length < 6){str += "-新密码不能小于6个字符\n";}
-	else if(new_pwd.length > 15){str += "-新密码不能大于15个字符\n";}
+	if(new_pwd.length < 6){str += "-1密码不能小于6个字符\n";}
+	else if(new_pwd.length > 15){str += "-1密码不能大于15个字符\n";}
 	if(new_pwd != r_pwd){str += "-两次输入密码不一致\n";}
 	if(str != "")
 	{
